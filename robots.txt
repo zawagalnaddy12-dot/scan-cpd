@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://scan-cpd.vercel.app/sitemap.xml
